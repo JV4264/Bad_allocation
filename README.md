@@ -1,5 +1,6 @@
 # Bad_allocation
-Compiler: CLion
+IDE: CLion
+
 Write a short program,  all within main().   Its purpose is to cause your system to run out of memory.
 
 It should go around a loop as many times as necessary to run out of dynamic memory.  Each time around the loop,
